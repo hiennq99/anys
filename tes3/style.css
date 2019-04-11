@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+.heading-bg{
+    background: #555;
+    width: 100%;
+}
+.heading{
+    max-width: 1200px;
+    height: 25px;
+    margin: auto;
+    background-color: #555;
+
+}
+#hotline{
+    color:#fff;
+    padding: 5px;
+    display: inline-block;
+    width: 50%;
+    float:  left;
+}
+#email{
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+    width: 50%;
+    float:  left;
+}
+.icon{
+    display: inline-block;
+    width: 30%;
+    float: left;
+}
+.search{
+    color: #fff;
+    display: inline-block;
+    width: 30%;
+    float: right;
+}
+.giohang{
+    color: #fff;
+    display: inline-block;
+    padding:5px;
+    width: 30%;
+    float: right;
+}
+.giohang:hover{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.login{
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+    width: 40%;
+    float: right;
+}
+.login:hover{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.signin:hover{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.signin
+{
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+    width: 30%;
+    float: right;
+}
+.cfloat{
+    clear: both;
+}
+.header-left{
+    display: inline-block;
+    width: 50%;
+    float: left;
+}.header-right{
+    display: inline-block;
+    width: 50%;
+    float:right;
+}
+#menu{
+    background-color
+    height: 40px;
+    max-width: 1170px;
+    margin: auto;
+}
+
+#img-menu{
+    float: left;
+    width: 20%
+}
+.img-wrap img{
+    float: left;
+
+    display: inline-block;
+    width: 200px;
+    height: 35px;
+    object-fit: cover;
+}
+.row-menu .col-menu{
+    float: left;
+    vertical-align: middle;
+    display: inline-block;
+    width: 10%;
+    padding:5px 10px;
+}
+.row-menu .col-menu:hover{
+    background-color: #ccc;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.row-menu{
+    float: left;
+    display: inline-block;
+    width: 80%;
+
+}
+.menu-bg{
+    background-color: #8877bb;
+    padding: 3px 0;
+}
+.heading-bg{
+    background-color: #555;
+}
+#body-img img{
+    width: 100%;
+    height: 600px;
+}
+#h1{
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+}
+.conten-tron img{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.conten-tron1{
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+}
+.body-main1{
+    max-width: 1170px;
+    margin: auto;
+}
+.conten-tron{
+   position: absolute;
+   left: 50%;
+   transform: translateX(-50%);
+   top: -70px;
+}
+.conten-vuong{
+    padding:80px 15px 15px 15px;
+}
+.content-3{
+    padding-top: 50px;
+}
+.content-wrap{
+    display: inline-block;
+    width: 33%;
+    padding: 5px;
+    margin-left: -4px;
+}
+.body-main-img-1{
+    display: inline-block;
+    height: 100px;
+}
+.body-main-img-{
+    height: 100px;;
+    display: inline-block;
+}
+.body-main-img-1 img{
+    width: 500px;
+    height: 200px;
+}
+.body-main-img{
+    padding: 15px ;
+    margin: 5px;
+}
+.body-img-wrap{
+    width: 25%;
+    margin-left: -4px;
+    display: inline-block;
+    padding: 10px;
+}
+.body-img-wrap1{
+    width: 50%;
+    margin-left: -4px;
+    display: inline-block;
+    padding: 10px 20px;@
+}
+.body-main-1-col{
+    width: 33.33%;
+    margin-left: -4px;
+    display:inline-block;
+
+}
+.body-main-1-col img{
+    width: 300px;
+    height: 150px;
+}
+.img1024 img{
+    width: 100%;
+}
+.body-main-col1{ 
+    position: relative;
+    border-bottom: 2px #ccc solid;
+    border-bottom: black 2px solid;
+}
+.icon1{
+  position: absolute;
+  left: 35%%;
+   transform: translateX(30%);
+   top: 0px;
+}
+.icon1:hover{
+    color:red;
+}
+.wrap-list1{
+    width: 33.33%;
+    display: inline-block;
+    margin-left: -4px;
+    padding: 20px 20px;
+}
+footer{
+    padding:20px;
+    background-color: red;
+}
+.footer-bg
+{
+    background-color: red;
+}
+.body-col1-wrap{
+    width: 25%;
+    display: inline-block;
+    margin-left: -4px;
+    padding: 15px;
+}
+.body-col1-wrap h3{
+    margin: 10px;
+}
+.body-col1-wrap img{
+    width: 80%;
+    height: 100%;
+}
